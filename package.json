@@ -1,7 +1,7 @@
 {
   "name": " adventurousgame",
   "version": "1.0.0",
-  "main": "Bank.js",
+  "main": "Game.js",
   "type": "module",
   "bin": {
     " adventurousgame": "Game.js"
