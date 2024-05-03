@@ -1,0 +1,22 @@
+{
+  "name": " adventurousgame",
+  "version": "1.0.0",
+  "main": "Bank.js",
+  "type": "module",
+  "bin": {
+    " adventurousgame": "Game.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
